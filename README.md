@@ -1,6 +1,6 @@
 # 友好的屏保软件
 
-> Screen Assistant是一款用户友好的屏保软件，它内置了若干精美的屏保，并且允许用户自定义图片文件夹的路径。该软件还具备保护用户隐私的功能，防止他人窥视用户的电脑，同时避免因误触屏幕带来不必要的麻烦。
+> Screen Assistant 是一款用户友好的屏保软件，它内置了若干精美的屏保，并且允许用户自定义图片文件夹的路径。该软件还具备保护用户隐私的功能，防止他人窥视用户的电脑，同时避免因误触屏幕带来不必要的麻烦。
 >
 > 该软件适合各种场合使用，可以用于工作、学习、娱乐等多种场景。无论是在办公室、学校、还是家里的电脑上使用，都可以让用户轻松地选择自己喜欢的图片作为屏保。
 
@@ -16,7 +16,14 @@
 
 ## 界面截图
 
-<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (1).png" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (1).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (2).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (3).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (4).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (5).jpg" height="250px">
+<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image1.png" height="250px">
+<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image1.jpg" height="250px">
+<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image2.jpg" height="250px">
+<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image3.jpg" height="250px">
+<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image4.jpg" height="250px">
+<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image5.jpg" height="250px">
+
+
 
 **相关壁纸：**
 
