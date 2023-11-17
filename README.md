@@ -16,7 +16,7 @@
 
 ## 界面截图
 
-`<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (1).png" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (1).jpg" height="250px">``<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (2).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (3).jpg" height="250px">``<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (4).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (5).jpg" height="250px">`
+<img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (1).png" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (1).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (2).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (3).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (4).jpg" height="250px"><img src="https://raw.githubusercontent.com/wowqaqtat/Screen-Assistant/main/image/image (5).jpg" height="250px">
 
 **相关壁纸：**
 
