@@ -28,19 +28,19 @@
 
 ## 快速开始
 
-**如果你不需要自行开发，可以直接 [下载](https://www.bilibili.com/ "安装包下载") 作者打包好的 `exe` 文件，并忽略下面的配置。**
+**如果你不需要自行开发，可以直接 [下载](https://github.com/wowqaqtat/Screen-Assistant/releases "安装包下载") 作者打包好的 `exe` 文件，并忽略下面的配置。**
 
-1. 确保已安装Python环境，作者使用的是 ``python 3.8.10`` .
+1. 确保已安装Python环境，作者使用的是 `python 3.8.10` .
 
-使用pip安装所需的依赖库，例如 ``pip install PyQt5``
+使用pip安装所需的依赖库，例如 `pip install PyQt5`
 
-也可以使用如下命令一键安装依赖包： ``pip install -r requirements.txt``
+也可以使用如下命令一键安装依赖包： `pip install -r requirements.txt`
 
 2. 执行命令 `python main.py` 启动程序 .
 3. 执行命令 `pyinstaller -F -i icon.ico main.py --noconsole` 打包程序 .
 4. 更多配置如下：
 
-配置文件 ``config.ini``：
+配置文件 `config.ini`：
 
 ```
 [settings]
@@ -50,7 +50,7 @@ path = ./image
 > 如果想重新选择文件夹，可以手动修改配置文件，文件编码为 `ANSI` 。如果想恢复默认设置，可以直接删除配置文件 `config.ini` .
 
 生成ui：
-``pyuic5 -o ui.py ui.ui``
+`pyuic5 -o ui.py ui.ui`
 
 ## 技术要点
 
